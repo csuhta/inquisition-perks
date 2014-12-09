@@ -3,7 +3,7 @@ INQUISITION PERKS GUIDE
 
 Version 1.0.0
 
-By Corey Csuhta (AlbrectKarew on GameFAQs)
+By Corey Csuhta (AlbrechtKarew on GameFAQs)
 https://github.com/csuhta
 
 ------------------------------------------------------------------------------+
