@@ -3,9 +3,6 @@ INQUISITION PERKS GUIDE
 
 Version 1.0.0
 
-By Corey Csuhta (AlbrechtKarew on GameFAQs)
-https://github.com/csuhta
-
 ------------------------------------------------------------------------------+
 INTRODUCTION 
 ------------------------------------------------------------------------------+
@@ -22,7 +19,7 @@ NAMES. IT CONTAINS NO PLOT SPOILERS.
 LEGAL
 ------------------------------------------------------------------------------+
 
-Copyright © 2014 Corey Csuhta.
+Copyright © 2014 Corey Csuhta (AlbrechtKarew on GameFAQs).
 This guide may only be reproduced for personal, private use.
 
 Only GameFAQs and GitHub may host this guide on my behalf. 
