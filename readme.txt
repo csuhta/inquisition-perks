@@ -10,9 +10,10 @@ https://github.com/csuhta
 INTRODUCTION 
 ------------------------------------------------------------------------------+
 
-This is a guide to the Inquisition Perks menu in Dragon Age: Inquisition. 
+This is a guide to the Inquisition Perks menu in Dragon Age: Inquisition.
+
 The game doesn't do a very good job describing exactly what you're buying when
-you get perks, so here we are.
+you're selecting a perk, so here we are.
 
 THIS GUIDE CONTAINS MINOR SPOILERS, MOSTLY IN THE FORM OF LOCATION AND QUEST 
 NAMES. IT CONTAINS NO PLOT SPOILERS.
@@ -22,8 +23,7 @@ LEGAL
 ------------------------------------------------------------------------------+
 
 Copyright © 2014 Corey Csuhta.
-
-This guide may only be reproduced for personal, private use. 
+This guide may only be reproduced for personal, private use.
 
 Only GameFAQs and GitHub may host this guide on my behalf. 
 All other sites require express, written permission.
@@ -42,10 +42,9 @@ them wisely.
 
 You can gain influence in the following ways:
 
-- Progress the story
-  Make important decisions 
+- Progress the story, make important decisions 
 - Complete Inner Circle quests
-- Complete war table missions.
+- Complete war table missions
   Some missions give more influence for doing them "correctly"
 — Capture keeps
 - Slay dragons
@@ -108,7 +107,7 @@ would build my Inquisition:
 ✔ Tempered Glass Flasks
 ✔ Exclusive Training
 
-4 free points
+4 leftover points
 
 ------------------------------------------------------------------------------+
 PERK NOTES AND DETAILS
@@ -130,9 +129,7 @@ from their in-game description. Here's how the ratings work:
   and you can't afford to waste points on them.
 
 ------------------------------------------------------------------------------+
-FORCES PERKS
-------------------------------------------------------------------------------+
-UNDERWORLD KNOWLEDGE
+UNDERWORLD KNOWLEDGE (FORCES)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -147,10 +144,10 @@ icon. Some of these conversation options allow you to recruit agents without
 the need for certain party members to be present. 
 
 You also need this perk if you want to recruit a certain male agent during 
-Wicked Eyes and Wicked Hearts. So, it's required.
+Wicked Eyes and Wicked Hearts.
 
 ------------------------------------------------------------------------------+
-MASSACHE'S METHOD
+MASSACHE'S METHOD (FORCES)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -164,7 +161,7 @@ definitely hit the soft level cap regardless of whether or not you take this
 perk.
 
 ------------------------------------------------------------------------------+
-RIDER'S POSTURE
+RIDER'S POSTURE (FORCES)
 Requires: 2 points in Forces
 ------------------------------------------------------------------------------+
 
@@ -177,7 +174,7 @@ There are very few moments in the game where being thrown from your mount is
 an issue. Do not waste a point on this perk.
 
 ------------------------------------------------------------------------------+
-ANTIVAN-STITCHED SADDLE
+ANTIVAN-STITCHED SADDLE (FORCES)
 Requires: Rider's Posture
 ------------------------------------------------------------------------------+
 
@@ -190,7 +187,7 @@ There are very few moments in the game where being thrown from your mount is
 an issue. Do not waste a point on this perk.
 
 ------------------------------------------------------------------------------+
-ADVANCED FOCUS
+ADVANCED FOCUS (FORCES)
 Requires: 4 points in Forces
 ------------------------------------------------------------------------------+
 
@@ -199,10 +196,11 @@ Effect for abilities can be triggered.
 
 Rating: Good
 
-Focus abilities are your late-game trump cards. You should get this perk.
+Focus abilities are your late-game trump cards. Who doesn't want to make
+giant green vortexes? You should get this perk.
 
 ------------------------------------------------------------------------------+
-MASTER FOCUS
+MASTER FOCUS (FORCES)
 Requires: Advanced Focus
 ------------------------------------------------------------------------------+
 
@@ -211,10 +209,10 @@ effect for abilities can now be triggered.
 
 Rating: Good
 
-Focus abilities are your late-game trump cards. You should get this perk.
+See above. We are pro-vortex in this guide.
 
 ------------------------------------------------------------------------------+
-TRUE GRIT
+TRUE GRIT (FORCES)
 Requires: Capturing any keep
 ------------------------------------------------------------------------------+
 
@@ -227,7 +225,7 @@ your entire party. It's up to you if you want it. I would raise this to
 required in harder difficulties regardless.
 
 ------------------------------------------------------------------------------+
-MORE HEALING POTIONS
+MORE HEALING POTIONS (FORCES)
 Requires: 3 points in Forces
 ------------------------------------------------------------------------------+
 
@@ -236,12 +234,12 @@ carry to 4.
 
 Rating: Good
 
-This gives you 4 more stock in the Healing Potion slot only (the automatic-use 
-one). This isn't required for normal difficulty, but I consider it essential 
+This gives you 4 more stock in the Healing Potion slot (the automatic one). 
+This isn't required for normal difficulty, but I consider it essential 
 for anything harder.
 
 ------------------------------------------------------------------------------+
-MAGE SCHEMATICS
+MAGE SCHEMATICS (FORCES)
 Requires: 4 points in Forces
 ------------------------------------------------------------------------------+
 
@@ -254,7 +252,7 @@ mages. T2 equipment is not the best, T3 masterwork is. Don't spend a point
 here.
 
 ------------------------------------------------------------------------------+
-ROGUE SCHEMATICS
+ROGUE SCHEMATICS (FORCES)
 Requires: 4 points in Forces
 ------------------------------------------------------------------------------+
 
@@ -267,7 +265,7 @@ rogues. T2 equipment is not the best, T3 masterwork is. Don't spend a point
 here.
 
 ------------------------------------------------------------------------------+
-WARRIOR SCHEMATICS
+WARRIOR SCHEMATICS (FORCES)
 Requires: 4 points in Forces
 ------------------------------------------------------------------------------+
 
@@ -280,9 +278,7 @@ warriors. T2 equipment is not the best, T3 masterwork is. Don't spend a point
 here.
 
 ------------------------------------------------------------------------------+
-SECRETS PERKS
-------------------------------------------------------------------------------+
-ARCANE KNOWLEDGE
+ARCANE KNOWLEDGE (SECRETS)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -300,7 +296,7 @@ You need this perk for some sentencing options to become available for Sit in
 Judgement.
 
 ------------------------------------------------------------------------------+
-OPTIMAL CUTTING
+OPTIMAL CUTTING (SECRETS)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -314,7 +310,7 @@ of that herb. This is surprisingly useful if you diligently harvest everything
 that you walk by.
 
 ------------------------------------------------------------------------------+
-EAGLE-EYED
+EAGLE-EYED (SECRETS)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -329,7 +325,7 @@ This up to your preference, but I find this perk infuriating, rather than
 helpful.
 
 ------------------------------------------------------------------------------+
-ENHANCED STUDIES
+ENHANCED STUDIES (SECRETS)
 Requires: 2 points in Secrets
 ------------------------------------------------------------------------------+
 
@@ -344,7 +340,7 @@ researched a monster. Keep in mind that you will definitely hit the soft level
 cap regardless of whether or not you take this perk.
 
 ------------------------------------------------------------------------------+
-DEFT HANDS, FINE TOOLS
+DEFT HANDS, FINE TOOLS (SECRETS)
 Requires: 4 points in Secrets
 ------------------------------------------------------------------------------+
 
@@ -356,7 +352,7 @@ You need this perk to complete some Inner Circle quests, and also to reach
 some of the better loot in the game. This perk is mandatory.
 
 ------------------------------------------------------------------------------+
-FORWARD SCOUTS
+FORWARD SCOUTS (SECRETS)
 Requires: Capture any keep
 ------------------------------------------------------------------------------+
 
@@ -370,7 +366,7 @@ need this perk in order to complete any of the landmark quests, and this perk
 does not add any additional warp points. Only get it if you like the flavor.
 
 ------------------------------------------------------------------------------+
-TRAINEE HERBALISTS
+TRAINEE HERBALISTS (SECRETS)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -383,7 +379,7 @@ grow them in Skyhold, and it never really becomes a grind. Don't waste a point
 here.
 
 ------------------------------------------------------------------------------+
-VETERAN HERBALISTS
+VETERAN HERBALISTS (SECRETS)
 Requires: Trainee Herbalists
 ------------------------------------------------------------------------------+
 
@@ -397,7 +393,7 @@ grow them in Skyhold, and it never really becomes a grind. Don't waste a point
 here.
 
 ------------------------------------------------------------------------------+
-MASTER HERBALISTS
+MASTER HERBALISTS (SECRETS)
 Requires: Veteran Herbalists
 ------------------------------------------------------------------------------+
 
@@ -411,9 +407,7 @@ grow them in Skyhold, and it never really becomes a grind. Don't waste a point
 here.
 
 ------------------------------------------------------------------------------+
-CONNECTIONS PERKS
-------------------------------------------------------------------------------+
-NOBILITY KNOWLEDGE
+NOBILITY KNOWLEDGE (CONNECTIONS)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -432,7 +426,7 @@ You need this perk to dance with the Dowager during Wicked Eyes and Wicked
 Hearts.
 
 ------------------------------------------------------------------------------+
-STERLING REPUTATION
+STERLING REPUTATION (CONNECTIONS)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -445,7 +439,7 @@ You don't need this perk to make lots of money in this game. You can get it if
 you have no better alternative.
 
 ------------------------------------------------------------------------------+
-A FAVOR FOR A FAVOR
+A FAVOR FOR A FAVOR (CONNECTIONS)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -458,7 +452,7 @@ You don't need this perk to make lots of money in this game. You can get it if
 you have no better alternative.
 
 ------------------------------------------------------------------------------+
-ELITE CLIENTELE
+ELITE CLIENTELE (CONNECTIONS)
 Requires: Sterling Reputation and A Favor for a Favor
 ------------------------------------------------------------------------------+
 
@@ -470,7 +464,7 @@ If you got the two prerequisite perks, you probably don't need to spend a
 third point on this perk.
 
 ------------------------------------------------------------------------------+
-THE RARE STOCKS
+THE RARE STOCKS (CONNECTIONS)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -484,7 +478,7 @@ This perk adds crafting materials to the vendor lists in Skyhold. Unsure of
 the ramifications at the moment or if they are worth it.
 
 ------------------------------------------------------------------------------+
-EXACTING BUYERS
+EXACTING BUYERS (CONNECTIONS)
 Requires: The Rare Stocks
 ------------------------------------------------------------------------------+
 
@@ -497,7 +491,7 @@ This perk adds crafting materials to the vendor lists in Skyhold. Unsure of
 the ramifications at the moment.
 
 ------------------------------------------------------------------------------+
-ONLY THE FINEST
+ONLY THE FINEST (CONNECTIONS)
 Requires: Exacting Buyers
 ------------------------------------------------------------------------------+
 
@@ -511,7 +505,7 @@ This perk adds crafting materials to the vendor lists in Skyhold. Unsure of
 the ramifications at the moment.
 
 ------------------------------------------------------------------------------+
-THE SHORT LIST
+THE SHORT LIST (CONNECTIONS)
 Requires: 5 points in Connections
 ------------------------------------------------------------------------------+
 
@@ -535,7 +529,7 @@ Hissing Wastes and Emprise du Lion merchants, and the only way to get certain
 unique items. You like fancy equipment, right? GET THIS PERK.
 
 ------------------------------------------------------------------------------+
-FRIENDS IN HIGH PLACES
+FRIENDS IN HIGH PLACES (CONNECTIONS)
 Requires: Capture any keep
 ------------------------------------------------------------------------------+
 
@@ -549,9 +543,7 @@ merchants are having a sale. If you visit them, they will offer you a
 temporary discount. This perk is not useful enough to spend a point on.
 
 ------------------------------------------------------------------------------+
-INQUISITION PERKS
-------------------------------------------------------------------------------+
-HISTORY KNOWLEDGE
+HISTORY KNOWLEDGE (INQUISITION)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -569,7 +561,7 @@ This perk's rating is currently "Good" because it doesn't seem like it's
 required for any missable agents or story steps.
 
 ------------------------------------------------------------------------------+
-ANTIVAN TAILORING
+ANTIVAN TAILORING (INQUISITION)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -583,7 +575,7 @@ at least this perk. You have to spend some points in Inquisition eventually,
 so you might as well get this.
 
 ------------------------------------------------------------------------------+
-IMPERIAL COURT TAILORING
+IMPERIAL COURT TAILORING (INQUISITION)
 Requires: Antivan Tailoring
 ------------------------------------------------------------------------------+
 
@@ -595,7 +587,7 @@ If you aren't having inventory trouble, you don't have to get this second bag
 upgrade.
 
 ------------------------------------------------------------------------------+
-TEMPERED GLASS FLASKS
+TEMPERED GLASS FLASKS (INQUISITION)
 Requires: None
 ------------------------------------------------------------------------------+
 
@@ -612,7 +604,7 @@ Absolutely required on harder difficulties. No boot will be safe from your
 potion bottle litter.
 
 ------------------------------------------------------------------------------+
-EXCLUSIVE TRAINING
+EXCLUSIVE TRAINING (INQUISITION)
 Requires: 4 points in Inquisition
 ------------------------------------------------------------------------------+
 
