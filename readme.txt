@@ -88,7 +88,6 @@ Just shut up and tell me what I should buy. Ok, here's a summary of how I
 would build my Inquisition:
 
 ✔ Underworld Knowledge
-✔ Massache's Method
 ✔ Advanced Focus
 ✔ Master Focus
 ✔ True Grit
@@ -103,11 +102,10 @@ would build my Inquisition:
 
 ✔ History Knowledge
 ✔ Antivan Tailoring
-✔ Imperial Court Tailoring
 ✔ Tempered Glass Flasks
 ✔ Exclusive Training
 
-4 leftover points
+6 leftover points
 
 ------------------------------------------------------------------------------+
 PERK NOTES AND DETAILS
