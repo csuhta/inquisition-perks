@@ -10,10 +10,10 @@ https://github.com/csuhta
 INTRODUCTION 
 ------------------------------------------------------------------------------+
 
-This is a guide to the Inquisition Perks menu in Dragon Age: Inquisition.
+This is a guide to the Inquisition Perks system in Dragon Age: Inquisition.
 
 The game doesn't do a very good job describing exactly what you're buying when
-you're selecting a perk, so here we are.
+selecting a perk, so here we are.
 
 THIS GUIDE CONTAINS MINOR SPOILERS, MOSTLY IN THE FORM OF LOCATION AND QUEST 
 NAMES. IT CONTAINS NO PLOT SPOILERS.
@@ -33,12 +33,11 @@ INFLUENCE
 ------------------------------------------------------------------------------+
 
 You acquire perk points by gaining influence. When the meter fills up, you get 
-a point to spend, and rise to the next influence level. Each point requires 
-more influence than the last. You can start gaining influence right from the 
-start of the game.
+a point to spend, and you rise to the next influence level. Each point 
+requires more influence than the last. You can begin gaining influence
+as soon as the game starts.
 
-There are only 20 points total in the game. This guide will help you spend 
-them wisely.
+There are only 20 points total. This guide will help you spend them wisely.
 
 You can gain influence in the following ways:
 
@@ -59,13 +58,13 @@ PERK REQUIREMENTS AND AGENTS
 Some perks have requirements, such as a prerequisite perk or spending enough 
 points in that perk tree. 
 
-The most important thing to remember here is that acquiring inquisition agents 
+The most important thing to remember here is that acquiring Inquisition agents 
 counts for point-prerequisites. So if you have three agents listed under 
-Secrets, that counts as you having 3 points spent in Secrets even though you 
-didn't actually spend points on the agents.
+Secrets, that counts as having 3 points spent in Secrets even though you 
+didn't actually spend anything on the agents.
 
-Listing each agent and how to get them is beyond the scope of this guide. Here 
-is a fantastic agent guide by WadeAnthony on Reddit (SPOILERS):
+Listing each agent and how to get them is beyond the scope of this guide. 
+There's a fantastic agent list by WadeAnthony on Reddit (SPOILERS):
 
 https://www.reddit.com/r/dragonage/comments/2nh1n6/list_of_agents_spoilers/
 
@@ -73,7 +72,7 @@ I do have two notes for agents:
 
 You should tell Speaker Anais that you want her to "spread word of an 
 Inquisition", so that she becomes a Secrets agent. Quite a few of the Secrets 
-perks are really bad, so you need all of the help you can get here to avoid 
+perks are bad, so you need all of the help that you can get to avoid 
 spending extra points in that tree.
 
 You should make Lord Berand a Connections agent ("use his influence"), because 
@@ -84,8 +83,7 @@ alternative role.
 THE SUGGESTED BUILD
 ------------------------------------------------------------------------------+
 
-Just shut up and tell me what I should buy. Ok, here's a summary of how I 
-would build my Inquisition:
+Here's a quick summary of how I would build my Inquisition:
 
 ✔ Underworld Knowledge
 ✔ Advanced Focus
@@ -123,7 +121,7 @@ from their in-game description. Here's how the ratings work:
   more important if you are playing on hard or nightmare difficulty.
 
 — Poor
-  These perks are really narrow or give you poor items 
+  These perks are really narrow, or give you boring items 
   and you can't afford to waste points on them.
 
 ------------------------------------------------------------------------------+
@@ -153,10 +151,10 @@ In-game Description: Grants a 5% increase in XP earned from killing foes.
 
 Rating: Good
 
-Only get this perk if you are still early in the game (before Skyhold). It 
-becomes less worthwhile the longer you play. Keep in mind that you will 
-definitely hit the soft level cap regardless of whether or not you take this 
-perk.
+Only get this perk if you are still early in the game (before Skyhold). 
+It becomes less worthwhile the longer you play. Keep in mind that you will 
+definitely hit the soft level cap regardless of whether or not you take 
+this perk.
 
 ------------------------------------------------------------------------------+
 RIDER'S POSTURE (FORCES)
@@ -166,7 +164,7 @@ Requires: 2 points in Forces
 In-game Description: Training in proper weight distribution during hard riding 
 significantly increases resistance to being unseated.
 
-Rating: Poorer than poor
+Rating: Very poor
 
 There are very few moments in the game where being thrown from your mount is 
 an issue. Do not waste a point on this perk.
@@ -179,7 +177,7 @@ Requires: Rider's Posture
 In-game Description: Proper tack of fine Antivan leather, custom fitted to 
 both horse and rider, significantly increase resistance to being unseated.
 
-Rating: Poorer than poor
+Rating: Very poor
 
 There are very few moments in the game where being thrown from your mount is 
 an issue. Do not waste a point on this perk.
@@ -219,8 +217,8 @@ In-game Description: All party members gain a 10% increase to all defenses.
 Rating: Good
 
 As of this writing, this perk is broken, and only affects the Inquisitor, not 
-your entire party. It's up to you if you want it. I would raise this to 
-required in harder difficulties regardless.
+your entire party. It's up to you if you want it. You should get this
+no matter what if you are playing on Hard or Nightmare.
 
 ------------------------------------------------------------------------------+
 MORE HEALING POTIONS (FORCES)
@@ -245,9 +243,8 @@ In-game Description: Provides new, rare schematics of mage armor and weapons
 
 Rating: Poor
 
-This perk will give you a one-time pack of T2 armor and weapon schematics for 
-mages. T2 equipment is not the best, T3 masterwork is. Don't spend a point 
-here.
+This perk will give you a one-time pack of T2 armor and weapon schematics 
+for mages. T2 equipment is not the best, T3 masterwork is. Don't buy this perk.
 
 ------------------------------------------------------------------------------+
 ROGUE SCHEMATICS (FORCES)
@@ -258,9 +255,9 @@ In-game Description: Provides new, rare schematics of rogue armor and weapons
 
 Rating: Poor
 
-This perk will give you a one-time pack of T2 armor and weapon schematics for 
-rogues. T2 equipment is not the best, T3 masterwork is. Don't spend a point 
-here.
+This perk will give you a one-time pack of T2 armor and weapon schematics 
+for rogues. T2 equipment is not the best, T3 masterwork is. Don't buy
+this perk.
 
 ------------------------------------------------------------------------------+
 WARRIOR SCHEMATICS (FORCES)
@@ -271,9 +268,9 @@ In-game Description: Provides new, rare schematics of warrior armor and weapons
 
 Rating: Poor
 
-This perk will give you a one-time pack of T2 armor and weapon schematics for 
-warriors. T2 equipment is not the best, T3 masterwork is. Don't spend a point 
-here.
+This perk will give you a one-time pack of T2 armor and weapon schematics 
+for warriors. T2 equipment is not the best, T3 masterwork is. Don't buy
+this perk.
 
 ------------------------------------------------------------------------------+
 ARCANE KNOWLEDGE (SECRETS)
@@ -303,7 +300,7 @@ harvest.
 
 Rating: Good
 
-10% of the time, when harvesting herbs, you will get up to 8 additional copies 
+When harvesting herbs, you have a 10% chance to get up to 8 additional copies 
 of that herb. This is surprisingly useful if you diligently harvest everything 
 that you walk by.
 
@@ -315,12 +312,13 @@ Requires: None
 In-game Description: Grants a significant increase to the discovery range of 
 the searching action.
 
-Rating: Poor or Good or AUUUGH
+Rating: AUUUGH NO
 
-To be honest, I do not want my search radius to expand in this game. I don't 
-want to keep pinging the random Elfroot or ladder halfway across the valley. 
-This up to your preference, but I find this perk infuriating, rather than 
-helpful.
+To be honest, I do not want my search radius to expand. I don't want to keep 
+pinging the random Elfroot or ladder halfway across the valley. 
+
+I find this perk infuriating, rather than helpful. However, this might be 
+something that you, personally, want to get.
 
 ------------------------------------------------------------------------------+
 ENHANCED STUDIES (SECRETS)
@@ -332,10 +330,10 @@ including those already completed.
 
 Rating: Poor
 
-You get more experience for turning in research items, but this perk will also 
-give you an immediate experience boost retroactively if you've already 
-researched a monster. Keep in mind that you will definitely hit the soft level 
-cap regardless of whether or not you take this perk.
+You get more experience for turning in research items. This perk will also 
+give you an immediate experience boost, retroactively, if you've already 
+researched some monsters. Keep in mind that you will definitely hit the 
+soft level cap regardless of whether or not you take this perk.
 
 ------------------------------------------------------------------------------+
 DEFT HANDS, FINE TOOLS (SECRETS)
@@ -373,8 +371,7 @@ In-game Description: Gain a collection of Tier 1 Herbs.
 Rating: Poor
 
 This gives you a one-time package of herbs. You can gather herbs yourself, 
-grow them in Skyhold, and it never really becomes a grind. Don't waste a point 
-here.
+or grow them in Skyhold. Don't waste a point here.
 
 ------------------------------------------------------------------------------+
 VETERAN HERBALISTS (SECRETS)
@@ -387,8 +384,7 @@ uncommon herbs will be delivered for personal use
 Rating: Poor
 
 This gives you a one-time package of herbs. You can gather herbs yourself, 
-grow them in Skyhold, and it never really becomes a grind. Don't waste a point 
-here.
+or grow them in Skyhold. Don't waste a point here.
 
 ------------------------------------------------------------------------------+
 MASTER HERBALISTS (SECRETS)
@@ -401,8 +397,7 @@ personal use
 Rating: Poor
 
 This gives you a one-time package of herbs. You can gather herbs yourself, 
-grow them in Skyhold, and it never really becomes a grind. Don't waste a point 
-here.
+or grow them in Skyhold. Don't waste a point here.
 
 ------------------------------------------------------------------------------+
 NOBILITY KNOWLEDGE (CONNECTIONS)
@@ -420,8 +415,8 @@ when you're using this perk because the conversation wheel will show a book
 icon. Some of these conversation options allow you to recruit agents without 
 the need for certain party members to be present. 
 
-You need this perk to dance with the Dowager during Wicked Eyes and Wicked 
-Hearts.
+You need this perk to dance with the Dowager during Wicked Eyes and 
+Wicked Hearts.
 
 ------------------------------------------------------------------------------+
 STERLING REPUTATION (CONNECTIONS)
@@ -433,7 +428,7 @@ sold to them.
 
 Rating: Poor
 
-You don't need this perk to make lots of money in this game. You can get it if 
+You don't need this perk to make lots of money in this game. Only get it if 
 you have no better alternative.
 
 ------------------------------------------------------------------------------+
@@ -446,7 +441,7 @@ their goods.
 
 Rating: Poor
 
-You don't need this perk to make lots of money in this game. You can get it if 
+You don't need this perk to make lots of money in this game. Only get it if 
 you have no better alternative.
 
 ------------------------------------------------------------------------------+
@@ -472,8 +467,8 @@ crafting.
 
 Rating: ???
 
-This perk adds crafting materials to the vendor lists in Skyhold. Unsure of 
-the ramifications at the moment or if they are worth it.
+This perk adds crafting materials to the merchants in Skyhold. I'm currently
+unsure if this perk is worth it.
 
 ------------------------------------------------------------------------------+
 EXACTING BUYERS (CONNECTIONS)
@@ -485,8 +480,8 @@ procurers to buy a shipment of high-quality materials for their craftsmen.
 
 Rating: ???
 
-This perk adds crafting materials to the vendor lists in Skyhold. Unsure of 
-the ramifications at the moment.
+This perk adds crafting materials to the merchants in Skyhold. I'm currently
+unsure if this perk is worth it.
 
 ------------------------------------------------------------------------------+
 ONLY THE FINEST (CONNECTIONS)
@@ -499,8 +494,8 @@ craftsmen.
 
 Rating: ???
 
-This perk adds crafting materials to the vendor lists in Skyhold. Unsure of 
-the ramifications at the moment.
+This perk adds crafting materials to the merchants in Skyhold. I'm currently
+unsure if this perk is worth it.
 
 ------------------------------------------------------------------------------+
 THE SHORT LIST (CONNECTIONS)
@@ -519,7 +514,7 @@ their store window will have a star mark above it.
 The rare item for each merchant rotates between a set list. If they don't have 
 what you want, map completely out and back into that zone to refresh their 
 inventory. Sometimes it seems like they're not changing their offering, but 
-believe me, they are, RNG just hates you. Just keep mapping out and back in 
+believe me, they are. RNG just hates you. Just keep mapping out and back in 
 and you'll get it.
 
 This perk is the only way to get some T3 masterwork schematics from the 
@@ -569,7 +564,7 @@ Rating: Good
 
 You don't have to expand your inventory capacity for any reason except 
 convenience, but you will have to empty out your bags much more often without 
-at least this perk. You have to spend some points in Inquisition eventually, 
+this perk. You have to spend some points in Inquisition eventually, 
 so you might as well get this.
 
 ------------------------------------------------------------------------------+
@@ -593,10 +588,10 @@ In-game Description: Adds one more potion slot for all party members.
 
 Rating: Required
 
-This lets each party member keep one more type of potion on their belt. Since 
-you first two potion slots will likely be reserved for defensive or healing 
-potions, you should take this so that you can have room for an offensive 
-potion. 
+This lets each party member keep one more type of potion on their belt. 
+Since you first two potion slots will likely be reserved for defensive 
+or healing potions, you should take this so that you can have room for an 
+offensive potion. 
 
 Absolutely required on harder difficulties. No boot will be safe from your 
 potion bottle litter.
