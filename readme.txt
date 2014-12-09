@@ -59,8 +59,8 @@ PERK REQUIREMENTS AND AGENTS
 Some perks have requirements, such as a prerequisite perk or spending enough 
 points in that perk tree. 
 
-The most important thing to remember here is that ACQUIRING INQUISITION AGENTS 
-COUNTS FOR POINT-PREREQUISITES. So if you have three agents listed under 
+The most important thing to remember here is that acquiring inquisition agents 
+counts for point-prerequisites. So if you have three agents listed under 
 Secrets, that counts as you having 3 points spent in Secrets even though you 
 didn't actually spend points on the agents.
 
