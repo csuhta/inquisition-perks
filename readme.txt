@@ -589,11 +589,11 @@ In-game Description: Adds one more potion slot for all party members.
 Rating: Required
 
 This lets each party member keep one more type of potion on their belt. 
-Since you first two potion slots will likely be reserved for defensive 
+Since your first two potion slots will likely be reserved for defensive 
 or healing potions, you should take this so that you can have room for an 
 offensive potion. 
 
-Absolutely required on harder difficulties. No boot will be safe from your 
+Absolutely required on harder difficulties. No one will be safe from your 
 potion bottle litter.
 
 ------------------------------------------------------------------------------+
