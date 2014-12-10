@@ -93,7 +93,7 @@ Here's a quick summary of how I would build my Inquisition:
 ✔ Deft Hands, Fine Tools
 
 ✔ Nobility Knowledge
-✔ The Rare Stocks
+✔ The Short List
 
 ✔ History Knowledge
 ✔ Antivan Tailoring
