@@ -610,7 +610,7 @@ UPDATE HISTORY
 ------------------------------------------------------------------------------+
 
 1.0.1:
-  Fix GameFAQS ASCII encoding issues
+  Fix GameFAQs ASCII encoding issues
   Fix directions for Speaker Anais
 
 1.0.0:
