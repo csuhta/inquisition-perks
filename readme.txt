@@ -19,7 +19,7 @@ NAMES. IT CONTAINS NO PLOT SPOILERS.
 LEGAL
 ------------------------------------------------------------------------------+
 
-Copyright © 2014 Corey Csuhta (AlbrechtKarew on GameFAQs).
+Copyright 2014 Corey Csuhta (AlbrechtKarew on GameFAQs).
 This guide may only be reproduced for personal, private use.
 
 Only GameFAQs and GitHub may host this guide on my behalf. 
@@ -42,10 +42,10 @@ You can gain influence in the following ways:
 - Complete Inner Circle quests
 - Complete war table missions
   Some missions give more influence for doing them "correctly"
-— Capture keeps
+- Capture keeps
 - Slay dragons
 - Close fade rifts
-— Complete minor quests
+- Complete minor quests
 - Purchase it with gold at the late-game Skyhold vendor
 
 ------------------------------------------------------------------------------+
@@ -82,23 +82,23 @@ THE SUGGESTED BUILD
 
 Here's a quick summary of how I would build my Inquisition:
 
-✔ Underworld Knowledge
-✔ Advanced Focus
-✔ Master Focus
-✔ True Grit
-✔ More Healing Potions
+> Underworld Knowledge
+> Advanced Focus
+> Master Focus
+> True Grit
+> More Healing Potions
 
-✔ Arcane Knowledge
-✔ Optimal Cutting
-✔ Deft Hands, Fine Tools
+> Arcane Knowledge
+> Optimal Cutting
+> Deft Hands, Fine Tools
 
-✔ Nobility Knowledge
-✔ The Short List
+> Nobility Knowledge
+> The Short List
 
-✔ History Knowledge
-✔ Antivan Tailoring
-✔ Tempered Glass Flasks
-✔ Exclusive Training
+> History Knowledge
+> Antivan Tailoring
+> Tempered Glass Flasks
+> Exclusive Training
 
 6 leftover points
 
