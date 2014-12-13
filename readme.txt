@@ -1,7 +1,7 @@
 DRAGON AGE: INQUISITION
 INQUISITION PERKS GUIDE
 
-Version 1.0.0
+Version 1.0.1
 
 ------------------------------------------------------------------------------+
 INTRODUCTION 
@@ -67,8 +67,8 @@ https://www.reddit.com/r/dragonage/comments/2nh1n6/list_of_agents_spoilers/
 
 I do have two notes for agents:
 
-You should tell Speaker Anais that you want her to "spread word of an 
-Inquisition", so that she becomes a Secrets agent. Quite a few of the Secrets 
+You should tell Speaker Anais that you want her to "listen and gather 
+information", so that she becomes a Secrets agent. Quite a few of the Secrets 
 perks are bad, so you need all of the help that you can get to avoid 
 spending extra points in that tree.
 
