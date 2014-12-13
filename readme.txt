@@ -604,3 +604,14 @@ Rating: Required
 
 You need all of the ability points that you can get on the Inquisitor. Don't 
 skip this perk.
+
+------------------------------------------------------------------------------+
+UPDATE HISTORY
+------------------------------------------------------------------------------+
+
+1.0.1:
+  Fix GameFAQS ASCII encoding issues
+  Fix directions for Speaker Anais
+
+1.0.0:
+  First release
