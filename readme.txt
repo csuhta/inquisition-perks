@@ -109,15 +109,15 @@ PERK NOTES AND DETAILS
 I've rated perks below and provided notes on what they actually do, distinct 
 from their in-game description. Here's how the ratings work:
 
-— Required
+- Required
   These perks are blocking access to final gear, schematics, a quest, 
   or an agent. You HAVE to take these perks or you will miss things.
 
-— Good
+- Good
   These perks are worth spending points on. Some good perks become
   more important if you are playing on hard or nightmare difficulty.
 
-— Poor
+- Poor
   These perks are really narrow, or give you boring items 
   and you can't afford to waste points on them.
 
