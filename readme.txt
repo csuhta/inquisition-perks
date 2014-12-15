@@ -1,7 +1,7 @@
 DRAGON AGE: INQUISITION
 INQUISITION PERKS GUIDE
 
-Version 1.0.1
+Version 1.0.2
 
 ------------------------------------------------------------------------------+
 INTRODUCTION 
