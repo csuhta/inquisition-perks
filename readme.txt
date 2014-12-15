@@ -1,7 +1,7 @@
 DRAGON AGE: INQUISITION
 INQUISITION PERKS GUIDE
 
-Version 1.0.2
+Version 1.1.0
 
 ------------------------------------------------------------------------------+
 INTRODUCTION 
@@ -61,7 +61,7 @@ Secrets, that counts as having 3 points spent in Secrets even though you
 didn't actually spend anything on the agents.
 
 Listing each agent and how to get them is beyond the scope of this guide. 
-There's a fantastic agent list by WadeAnthony on Reddit (SPOILERS):
+There's a fantastic agent list by WadeAnthony on Reddit:
 
 https://www.reddit.com/r/dragonage/comments/2nh1n6/list_of_agents_spoilers/
 
@@ -167,7 +167,7 @@ Requires: 2 points in Forces
 In-game Description: Training in proper weight distribution during hard riding 
 significantly increases resistance to being unseated.
 
-Rating: Very poor
+Rating: Very Poor
 
 There are very few moments in the game where being thrown from your mount is 
 an issue. Do not waste a point on this perk.
@@ -246,8 +246,8 @@ In-game Description: Provides new, rare schematics of mage armor and weapons
 
 Rating: Poor
 
-This perk will give you a one-time pack of T2 armor and weapon schematics 
-for mages. T2 equipment is not the best, T3 masterwork is. Don't buy this perk.
+This perk will give you a one-time pack of tier 2 armor and weapon schematics 
+for mages. Tier 2 equipment is not the best, tier 3 is. Don't buy this perk.
 
 ------------------------------------------------------------------------------+
 ROGUE SCHEMATICS (FORCES)
@@ -258,9 +258,8 @@ In-game Description: Provides new, rare schematics of rogue armor and weapons
 
 Rating: Poor
 
-This perk will give you a one-time pack of T2 armor and weapon schematics 
-for rogues. T2 equipment is not the best, T3 masterwork is. Don't buy
-this perk.
+This perk will give you a one-time pack of tier 2 armor and weapon schematics 
+for rogues. Tier 2 equipment is not the best, tier 3 is. Don't buy this perk.
 
 ------------------------------------------------------------------------------+
 WARRIOR SCHEMATICS (FORCES)
@@ -271,9 +270,8 @@ In-game Description: Provides new, rare schematics of warrior armor and weapons
 
 Rating: Poor
 
-This perk will give you a one-time pack of T2 armor and weapon schematics 
-for warriors. T2 equipment is not the best, T3 masterwork is. Don't buy
-this perk.
+This perk will give you a one-time pack of tier 2 armor and weapon schematics 
+for warriors. Tier 2 equipment is not the best, tier 3 is. Don't buy this perk.
 
 ------------------------------------------------------------------------------+
 ARCANE KNOWLEDGE (SECRETS)
