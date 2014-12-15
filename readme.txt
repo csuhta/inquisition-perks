@@ -476,7 +476,7 @@ crafting.
 
 Rating: Poor
 
-This perk gives you a one-time pack of teir 1 metals and cloth, about 10 
+This perk gives you a one-time pack of tier 1 metals and cloth, about 10 
 of each kind. You can gather these yourself, and even buy some of them 
 from merchants. Spend your points elsewhere.
 
@@ -490,7 +490,7 @@ procurers to buy a shipment of high-quality materials for their craftsmen.
 
 Rating: Poor
 
-This perk gives you a one-time pack of teir 2 metals and cloth, about 10 
+This perk gives you a one-time pack of tier 2 metals and cloth, about 10 
 of each kind. You can gather these yourself, and even buy some of them 
 from merchants. Spend your points elsewhere.
 
@@ -505,7 +505,7 @@ craftsmen.
 
 Rating: Poor
 
-This perk gives you a one-time pack of teir 3 metals and cloth, about 10 
+This perk gives you a one-time pack of tier 3 metals and cloth, about 10 
 of each kind. You can gather these yourself. While this perk might be 
 somewhat worth it, the two other points you'd have to spend to get there 
 are not.
