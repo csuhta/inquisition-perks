@@ -72,9 +72,11 @@ information", so that she becomes a Secrets agent. Quite a few of the Secrets
 perks are bad, so you need all of the help that you can get to avoid 
 spending extra points in that tree.
 
-You should make Lord Berand a Connections agent ("use his influence"), because 
-you will be spending a lot of points in Forces anyway, which is his 
-alternative role.
+You should tell Lord Berand to return home, so that he becomes a Connections 
+agent. The alternative is Forces, which you will spending a lot of points 
+in anyway. This conversation choice is counter-inutative, because
+the Forces option on the wheel will mention joining the Inquisition, but you
+have to pick the choice that feels like a rejection to get Connections.
 
 ------------------------------------------------------------------------------+
 THE SUGGESTED BUILD
@@ -135,6 +137,9 @@ This perk adds richer dialog options concerning criminals and war. You'll know
 when you're using this perk because the conversation wheel will show a book 
 icon. Some of these conversation options allow you to recruit agents without 
 the need for certain party members to be present. 
+
+The XP boost for codex entries is for all entries, not just those concerning
+criminals and war, and it stacks with the other boosts. 
 
 You also need this perk if you want to recruit a certain male agent during 
 Wicked Eyes and Wicked Hearts.
@@ -274,15 +279,18 @@ ARCANE KNOWLEDGE (SECRETS)
 Requires: None
 ------------------------------------------------------------------------------+
 
-In-game Description: Opens up new Dialogue options related to the Face or 
+In-game Description: Opens up new Dialogue options related to the Fade or 
 Arcane Studies. Grants +50% XP for each codex entry unlocked.
 
 Rating: Required
 
-This perk adds richer dialog options. You'll know when you're using this perk 
-because the conversation wheel will show a book icon. Some of these 
-conversation options allow you to recruit agents without the need for certain 
-party members to be present. 
+This perk adds richer dialog options concerning magic. You'll know 
+when you're using this perk because the conversation wheel will show a book 
+icon. Some of these conversation options allow you to recruit agents without 
+the need for certain party members to be present. 
+
+The XP boost for codex entries is for all entries, not just those concerning
+magic, and it stacks with the other boosts. 
 
 You need this perk for some sentencing options to become available for Sit in 
 Judgement.
@@ -407,10 +415,14 @@ politics. Grants +50% XP for each codex entry unlocked.
 
 Rating: Required
 
-This perk adds richer dialog options about nobility and politics. You'll know 
+This perk adds richer dialog options concerning nobility. You'll know 
 when you're using this perk because the conversation wheel will show a book 
 icon. Some of these conversation options allow you to recruit agents without 
 the need for certain party members to be present. 
+
+The XP boost for codex entries is for all entries, not just those concerning
+nobility, and it stacks with the other boosts. The earlier you get this 
+perk, the better.
 
 You need this perk to dance with the Dowager during Wicked Eyes and 
 Wicked Hearts.
@@ -542,10 +554,14 @@ Chantry. Grants an additional +50% XP for each codex entry found.
 
 Rating: Good
 
-This perk adds richer dialog options. You'll know when you're using this perk 
-because the conversation wheel will show a book icon. Some of these 
-conversation options allow you to recruit agents without the need for certain 
-party members to be present. 
+This perk adds richer dialog options concerning history and religion. 
+You'll know when you're using this perk because the conversation wheel 
+will show a book icon. Some of these conversation options allow you to 
+recruit agents without the need for certain party members to be present. 
+
+The XP boost for codex entries is for all entries, not just those concerning
+history, and it stacks with the other boosts. The earlier you get this 
+perk, the better.
 
 This perk's rating is currently "Good" because it doesn't seem like it's 
 required for any missable agents or story steps.
@@ -608,6 +624,11 @@ skip this perk.
 ------------------------------------------------------------------------------+
 UPDATE HISTORY
 ------------------------------------------------------------------------------+
+
+1.0.2:
+  Fix GameFAQs ASCII encoding issues
+  Clarify directions for Lord Bertrand
+  Clarify Knowledge perk functionality.
 
 1.0.1:
   Fix GameFAQs ASCII encoding issues
