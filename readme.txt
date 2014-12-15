@@ -139,7 +139,8 @@ icon. Some of these conversation options allow you to recruit agents without
 the need for certain party members to be present. 
 
 The XP boost for codex entries is for all entries, not just those concerning
-criminals and war, and it stacks with the other boosts. 
+criminals and war, and it stacks with the other boosts. The earlier you get 
+this perk, the better.
 
 You also need this perk if you want to recruit a certain male agent during 
 Wicked Eyes and Wicked Hearts.
@@ -290,7 +291,8 @@ icon. Some of these conversation options allow you to recruit agents without
 the need for certain party members to be present. 
 
 The XP boost for codex entries is for all entries, not just those concerning
-magic, and it stacks with the other boosts. 
+magic, and it stacks with the other boosts. The earlier you get this perk, 
+the better off you'll be.
 
 You need this perk for some sentencing options to become available for Sit in 
 Judgement.
