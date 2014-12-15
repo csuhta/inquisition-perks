@@ -180,7 +180,7 @@ Requires: Rider's Posture
 In-game Description: Proper tack of fine Antivan leather, custom fitted to 
 both horse and rider, significantly increase resistance to being unseated.
 
-Rating: Very poor
+Rating: Very Poor
 
 There are very few moments in the game where being thrown from your mount is 
 an issue. Do not waste a point on this perk.
@@ -476,10 +476,11 @@ In-game Description: Inquisition procurers can leverage the organization's
 reputation to purchase a shipment of rare and valuable raw materials for 
 crafting.
 
-Rating: ???
+Rating: Poor
 
-This perk adds crafting materials to the merchants in Skyhold. I'm currently
-unsure if this perk is worth it.
+This perk gives you a one-time pack of teir 1 metals and cloth, about 10 
+of each kind. You can gather these yourself, and even buy some of them 
+from merchants. Spend your points elsewhere.
 
 ------------------------------------------------------------------------------+
 EXACTING BUYERS (CONNECTIONS)
@@ -489,10 +490,11 @@ Requires: The Rare Stocks
 In-game Description: A little shrewd negotiation will allow inquisition 
 procurers to buy a shipment of high-quality materials for their craftsmen.
 
-Rating: ???
+Rating: Poor
 
-This perk adds crafting materials to the merchants in Skyhold. I'm currently
-unsure if this perk is worth it.
+This perk gives you a one-time pack of teir 2 metals and cloth, about 10 
+of each kind. You can gather these yourself, and even buy some of them 
+from merchants. Spend your points elsewhere.
 
 ------------------------------------------------------------------------------+
 ONLY THE FINEST (CONNECTIONS)
@@ -503,10 +505,12 @@ In-game Description: A word to the right people, and our Inquisition procurers
 can bid at auction on the very highest-quality, rare materials for their 
 craftsmen.
 
-Rating: ???
+Rating: Poor
 
-This perk adds crafting materials to the merchants in Skyhold. I'm currently
-unsure if this perk is worth it.
+This perk gives you a one-time pack of teir 3 metals and cloth, about 10 
+of each kind. You can gather these yourself. While this perk might be 
+somewhat worth it, the two other points you'd have to spend to get there 
+are not.
 
 ------------------------------------------------------------------------------+
 THE SHORT LIST (CONNECTIONS)
@@ -627,10 +631,13 @@ skip this perk.
 UPDATE HISTORY
 ------------------------------------------------------------------------------+
 
+1.1.0:
+  Add notes for The Rare Stocks, Exacting Buyers, and Only the Finest
+
 1.0.2:
   Fix GameFAQs ASCII encoding issues
   Clarify directions for Lord Bertrand
-  Clarify Knowledge perk functionality.
+  Clarify Knowledge perk functionality
 
 1.0.1:
   Fix GameFAQs ASCII encoding issues
