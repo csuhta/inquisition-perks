@@ -74,7 +74,7 @@ spending extra points in that tree.
 
 You should tell Lord Berand to return home, so that he becomes a Connections 
 agent. The alternative is Forces, which you will spending a lot of points 
-in anyway. This conversation choice is counter-inutative, because
+in anyway. This conversation choice is counterintuitive, because
 the Forces option on the wheel will mention joining the Inquisition, but you
 have to pick the choice that feels like a rejection to get Connections.
 
@@ -563,7 +563,7 @@ You'll know when you're using this perk because the conversation wheel
 will show a book icon. Some of these conversation options allow you to 
 recruit agents without the need for certain party members to be present. 
 
-Of all of the Knowedge perks, this is the one you will encounter most 
+Of all of the Knowledge perks, this is the one you will encounter most 
 often on conversation wheels.
 
 The XP boost for codex entries is for all entries, not just those concerning
@@ -633,7 +633,7 @@ UPDATE HISTORY
 ------------------------------------------------------------------------------+
 
 1.1.1:
-  Corrected icons for knowedge perks.
+  Corrected icons for knowledge perks.
 
 1.1.0:
   Add notes for The Rare Stocks, Exacting Buyers, and Only the Finest
