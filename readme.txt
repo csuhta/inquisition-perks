@@ -1,7 +1,7 @@
 DRAGON AGE: INQUISITION
 INQUISITION PERKS GUIDE
 
-Version 1.1.0
+Version 1.1.1
 
 ------------------------------------------------------------------------------+
 INTRODUCTION 
@@ -134,7 +134,7 @@ activities and grants +50% XP for each codex entry unlocked.
 Rating: Required
 
 This perk adds richer dialog options concerning criminals and war. You'll know 
-when you're using this perk because the conversation wheel will show a book 
+when you're using this perk because the conversation wheel will show a raven 
 icon. Some of these conversation options allow you to recruit agents without 
 the need for certain party members to be present. 
 
@@ -284,9 +284,9 @@ Arcane Studies. Grants +50% XP for each codex entry unlocked.
 Rating: Required
 
 This perk adds richer dialog options concerning magic. You'll know 
-when you're using this perk because the conversation wheel will show a book 
-icon. Some of these conversation options allow you to recruit agents without 
-the need for certain party members to be present. 
+when you're using this perk because the conversation wheel will show a 
+circular thunderburst icon. Some of these conversation options allow you to 
+recruit agents without the need for certain party members to be present. 
 
 The XP boost for codex entries is for all entries, not just those concerning
 magic, and it stacks with the other boosts. The earlier you get this perk, 
@@ -416,7 +416,7 @@ politics. Grants +50% XP for each codex entry unlocked.
 Rating: Required
 
 This perk adds richer dialog options concerning nobility. You'll know 
-when you're using this perk because the conversation wheel will show a book 
+when you're using this perk because the conversation wheel will show a crown 
 icon. Some of these conversation options allow you to recruit agents without 
 the need for certain party members to be present. 
 
@@ -563,6 +563,9 @@ You'll know when you're using this perk because the conversation wheel
 will show a book icon. Some of these conversation options allow you to 
 recruit agents without the need for certain party members to be present. 
 
+Of all of the Knowedge perks, this is the one you will encounter most 
+often on conversation wheels.
+
 The XP boost for codex entries is for all entries, not just those concerning
 history, and it stacks with the other boosts. The earlier you get this 
 perk, the better.
@@ -628,6 +631,9 @@ skip this perk.
 ------------------------------------------------------------------------------+
 UPDATE HISTORY
 ------------------------------------------------------------------------------+
+
+1.1.1:
+  Corrected icons for knowedge perks.
 
 1.1.0:
   Add notes for The Rare Stocks, Exacting Buyers, and Only the Finest
